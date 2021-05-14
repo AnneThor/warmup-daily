@@ -4,7 +4,8 @@
   "description": "warmup javascript exercises",
   "main": "exercises.js",
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "start": "node exercises.js"
   },
   "repository": {
     "type": "git",
