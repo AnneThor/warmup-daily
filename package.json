@@ -1,0 +1,22 @@
+{
+  "name": "warmup-daily",
+  "version": "1.0.0",
+  "description": "warmup javascript exercises",
+  "main": "exercises.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnneThor/warmup-daily.git"
+  },
+  "author": "Anne Thorsteinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnneThor/warmup-daily/issues"
+  },
+  "homepage": "https://github.com/AnneThor/warmup-daily#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
